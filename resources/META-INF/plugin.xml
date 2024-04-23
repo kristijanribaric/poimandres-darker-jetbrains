@@ -1,7 +1,7 @@
 
 <idea-plugin>
     <id>poimandres-darker</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <name>Poimandres Darker</name>
     <category>UI</category>
@@ -9,9 +9,9 @@
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor email="kriba13@gmail.com" url="https://github.com/kristijanribaric">Kristijan Ribaric</vendor>
 
-    <idea-version since-build="222" until-build="232.*"/>
+    <idea-version since-build="222" until-build="241.*"/>
     <description><![CDATA[
-    Jetbrains theme inspired by poimandres theme for VS Code. Slightly darker variant.<br>
+    Jetbrains theme inspired by Poimandres theme for VS Code. Slightly darker variant.<br>
   ]]></description>
 
     <change-notes><![CDATA[

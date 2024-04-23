@@ -2,7 +2,7 @@
     <colors>
         <option name="ADDED_LINES_COLOR" value="5de4c7" />
         <option name="CARET_ROW_COLOR" value="272c3b" />
-        <option name="CONSOLE_BACKGROUND_KEY" value="101218" />
+        <option name="CONSOLE_BACKGROUND_KEY" value="0f1117" />
         <option name="DELETED_LINES_COLOR" value="d0679d" />
         <option name="DIFF_SEPARATOR_WAVE" value="272c3c" />
         <option name="DOCUMENTATION_COLOR" value="272c3c" />
@@ -15,7 +15,7 @@
         <option name="FILESTATUS_UNKNOWN" value="d0679d" />
         <option name="GRAYED_ATTRIBUTES" value="5de4c7" />
         <option name="GRAY_ATTRIBUTES" value="5de4c7" />
-        <option name="GUTTER_BACKGROUND" value="101218" />
+        <option name="GUTTER_BACKGROUND" value="0f1117" />
         <option name="INDENT_GUIDE" value="303340" />
         <option name="INFORMATION_HINT" value="272c3c" />
         <option name="LINE_NUMBERS_COLOR" value="383b4d" />
@@ -24,7 +24,7 @@
         <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="494d62" />
         <option name="QUESTION_HINT" value="272c3c" />
         <option name="RECENT_LOCATIONS_SELECTION" value="717cb425" />
-        <option name="REGULAR_ATTRIBUTES" value="101218" />
+        <option name="REGULAR_ATTRIBUTES" value="0f1117" />
         <option name="RIGHT_MARGIN_COLOR" value="303340" />
         <option name="SELECTED_INDENT_GUIDE" value="767c9d" />
         <option name="SELECTED_TEARLINE_COLOR" value="767c9d" />
@@ -538,7 +538,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="e4f0fb" />
-                <option name="BACKGROUND" value="101218" />
+                <option name="BACKGROUND" value="0f1117" />
             </value>
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

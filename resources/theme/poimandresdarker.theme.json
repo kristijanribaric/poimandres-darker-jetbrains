@@ -19,11 +19,10 @@
     "bluishGray": "#506477",
     "bluishGray2": "#4a5b6f",
     "focus": "#303340",
-    "bg": "#101218",
+    "bg": "#0f1117",
     "offWhite": "#e4f0fb",
     "selection": "#717cb425",
     "selection2": "#272c3c",
-    "white": "#ffffff",
     "black": "#000000",
     "transparent": "#00000000",
     "test1": "#d0679d",
@@ -288,7 +287,7 @@
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "#101218",
+      "Checkbox.Background.Default.Dark": "#0f1117",
       "Checkbox.Background.Disabled.Dark": "#303340",
       "Checkbox.Foreground.Selected.Dark": "#767c9d",
       "Checkbox.Foreground.Disabled.Dark": "#50536a",
@@ -322,7 +321,7 @@
       "Objects.Yellow": "#50536a",
       "Objects.YellowDark": "#50536a",
       "Objects.Blue": "#50536a",
-      "Objects.BlackText": "#101218"
+      "Objects.BlackText": "#0f1117"
     }
   }
 }
