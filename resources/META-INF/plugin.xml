@@ -11,7 +11,7 @@
 
     <idea-version since-build="222" until-build="241.*"/>
     <description><![CDATA[
-    Jetbrains theme inspired by Poimandres theme for VS Code. Slightly darker variant.<br>
+    A theme for JetBrains IDEs inspired by Poimandres theme for VS Code. Slightly darker variant.<br>
   ]]></description>
 
     <change-notes><![CDATA[
